@@ -6,7 +6,7 @@ import os
 # Cloud (Render): "wss://cloud-arena-server.onrender.com"
 DEFAULT_SERVER_URL = os.environ.get(
     "CLOUD_ARENA_SERVER_URL",
-    "wss://cloud-arena-server.onrender.com",
+    "wss://cloud-arena-server-s7sw.onrender.com",
 )
 
 # Slot colors for players 0-3
